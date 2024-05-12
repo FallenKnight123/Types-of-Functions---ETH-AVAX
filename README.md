@@ -1,4 +1,4 @@
-# MyToken Smart Contract
+# Types-of-Functions---ETH-AVAX
 
 ## Introduction
 This is a Solidity smart contract for creating and managing a custom ERC20 token called MyToken. The contract allows for token creation, minting, transferring, burning, and ownership management.
