@@ -27,7 +27,3 @@ This Solidity contract is an implementation of an ERC20 token named "MyToken" wi
 ### Solidity Compiler
 
 You can also compile and deploy the contract using other Solidity development tools or platforms.
-
-## License
-
-This contract is released under the [MIT License](LICENSE).
